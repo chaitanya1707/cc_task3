@@ -1,4 +1,4 @@
-import 'package:flutflix/api/api.dart';
+import 'package:iitgdb/api/api.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import '../models/movie.dart';

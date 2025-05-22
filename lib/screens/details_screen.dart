@@ -1,6 +1,6 @@
-import 'package:flutflix/constants.dart';
-import 'package:flutflix/models/movie.dart';
-import 'package:flutflix/widgets/back_button.dart';
+import 'package:iitgdb/constants.dart';
+import 'package:iitgdb/models/movie.dart';
+import 'package:iitgdb/widgets/back_button.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 

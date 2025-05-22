@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:flutflix/constants.dart';
-import 'package:flutflix/models/movie.dart';
+import 'package:iitgdb/constants.dart';
+import 'package:iitgdb/models/movie.dart';
 import 'package:http/http.dart' as http;
 
 class Api {

@@ -1,4 +1,4 @@
-import 'package:flutflix/constants.dart';
+import 'package:iitgdb/constants.dart';
 import 'package:flutter/material.dart';
 
 import '../screens/details_screen.dart';
